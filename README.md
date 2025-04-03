@@ -55,8 +55,8 @@ Pillow==10.0.0
 - Download your processed creations
 
 ## 🛠️ Technical Highlights:
-- "Real-time Processing:" Instant visual feedback for all operations
-- "Computer Vision:" Leverages OpenCV for advanced operations
-- "Interactive Visualization:" Dynamic histograms & Fourier transforms
-- "Gamification:" Achievement system with confetti animations
-- "Responsive Design:" Mobile-friendly interface
+- **Real-time Processing:** Instant visual feedback for all operations
+- **Computer Vision:** Leverages OpenCV for advanced operations
+- **Interactive Visualization:** Dynamic histograms & Fourier transforms
+- **Gamification:** Achievement system with confetti animations
+- **Responsive Design:** Mobile-friendly interface
